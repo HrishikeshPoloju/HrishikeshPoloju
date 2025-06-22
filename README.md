@@ -29,7 +29,7 @@ I'm a frontend developer passionate about building **AI-powered tools**, writing
 
 ### 📈 Learning Path
 
-- ✅ Solved **250+ DSA problems** across platforms (180+ on LeetCode)
+- ✅ Solved **250+ DSA problems** across platforms 
 - 🏆 Ranked **Top 10%** in CodeChef Contest (Rank 4,398 / 46K+)
 - 📚 Completed **ML Specialization by Andrew Ng (Coursera)**
 - 🔧 Deep diving into **System Design for Frontend Engineers**
