@@ -1,7 +1,6 @@
 # Hi, I'm Hrishikesh Poloju 👋
 
-I'm a frontend developer passionate about building saas integrated **AI-powered tools**, writing clean, scalable React code, and solving real problems with code.
-
+I’m a frontend developer passionate about building AI-powered SaaS tools, writing clean, scalable React code, and solving real-world problems through intuitive interfaces. Currently exploring the intersection of AI and automation.
 ### What I Do
 -  Build modern web apps using **React 19**, **Next.js 15 (App Router)**, and **Tailwind + Shadcn UI**
 -  Focus on **performance optimization**, **background jobs**, and **state management** using **Inngest**, **Clerk**, and **Prisma**
