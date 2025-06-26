@@ -1,6 +1,6 @@
 # Hi, I'm Hrishikesh Poloju 👋
 
-I'm a frontend developer passionate about building **AI-powered tools**, writing clean, scalable React code, and solving real problems with code.
+I'm a frontend developer passionate about building saas integrated **AI-powered tools**, writing clean, scalable React code, and solving real problems with code.
 
 ### What I Do
 -  Build modern web apps using **React 19**, **Next.js 15 (App Router)**, and **Tailwind + Shadcn UI**
@@ -21,15 +21,15 @@ I'm a frontend developer passionate about building **AI-powered tools**, writing
 > Generates personalized job emails using LangChain + Groq LPU in under 5s  
 **Stack:** Python, LangChain, Streamlit, ChromaDB
 
-#### 🔹 [URL Shortener](https://github.com/HrishikeshPoloju/URL-SHORTNER)
-> Tracks, shortens, and analyzes links with Supabase OAuth + Analytics  
-**Stack:** React 18, Vite, Supabase, Shadcn UI
+#### 🔹 [taskboard_app](https://taskboard-omega.vercel.app/)
+>  Task Manager Web App with Firebase Auth & Realtime Sync
+**Stack:** React.js, React Router DOM, Firebase Auth, Firestore, React Firebase Hooks, Tailwind CSS, Picsum.photos API, Jest + RTL, Vercel
 
 ---
 
 ### 📈 Learning Path
 
-- ✅ Solved **250+ DSA problems** across platforms 
+- ✅ Solved **350+ DSA problems** across platforms 
 - 🏆 Ranked **Top 10%** in CodeChef Contest (Rank 4,398 / 46K+)
 - 📚 Completed **ML Specialization by Andrew Ng (Coursera)**
 - 🔧 Deep diving into **System Design for Frontend Engineers**
@@ -38,9 +38,8 @@ I'm a frontend developer passionate about building **AI-powered tools**, writing
 
 ### 🔗 Let’s Connect
 
-- 🌐 [Portfolio Website](https://ai-career-coach-mu.vercel.app/)
 - 💼 [LinkedIn](https://linkedin.com/in/hrishikesh-poloju-731a45257/)
-- 💌 DM-friendly on Twitter or LinkedIn if you're building cool stuff
+-    hrishikeshpoloju@gmail.com
 
 ---
 
