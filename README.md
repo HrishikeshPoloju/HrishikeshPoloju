@@ -28,7 +28,7 @@ I’m a frontend developer passionate about building AI-powered SaaS tools, writ
 
 ### 📈 Learning Path
 
-- ✅ Solved **350+ DSA problems** across platforms 
+- ✅ Solved **500+ DSA problems** across platforms (250+ on LeetCode) [LeetCode](https://leetcode.com/u/hrishikeshpoloju/) 
 - 🏆 Ranked **Top 10%** in CodeChef Contest (Rank 4,398 / 46K+)
 - 📚 Completed **ML Specialization by Andrew Ng (Coursera)**
 - 🔧 Deep diving into **System Design for Frontend Engineers**
